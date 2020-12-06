@@ -48,6 +48,12 @@ export class AppComponent {
     this.playAudio();
   }
 
+  playAudio(){
+    const audio = new Audio();
+    audio.src = './assets/audio/RaffleWheel.mp3';
+    audio.load();
+    audio.play();
+  }
 
   after() {
     alert('The winner is ' + this.names[this.idToLandOn]);
