@@ -1,6 +1,6 @@
 # DailyWheel
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.6.
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.0.3 and [Node](https://nodejs.org/fr/) version 12.20.0.
 
 ## Development server
 
