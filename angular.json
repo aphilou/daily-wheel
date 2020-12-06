@@ -29,7 +29,10 @@
             "styles": [
               "src/styles.less"
             ],
+            "scripts": [
               "./node_modules/winwheeljs/dist/Winwheel.min.js",
+              "./src/assets/js/TweenMax.min.js"
+            ],
             "es5BrowserSupport": true
           },
           "configurations": {
